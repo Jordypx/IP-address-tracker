@@ -1,6 +1,5 @@
-# Frontend Mentor - IP address tracker solution
-
-This is a solution to the [IP address tracker challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+# IP address tracker solution
+. 
 
 ## Table of contents
 
@@ -11,7 +10,7 @@ This is a solution to the [IP address tracker challenge on Frontend Mentor](http
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-- [Author](#author)
+
 
 ## Overview
 
@@ -31,9 +30,7 @@ Users should be able to:
 ![Mobile Version](./public/screenshotMobile.png)
 
 ### Links
-
-- Solution URL: [GitHub Solution](https://github.com/bernard-rodrigues/FrontendMentor-ip-address-tracker)
-- Live Site URL: [IP Address Tracker](https://frontend-mentor-ip-address-tracker-iota.vercel.app/)
+- Live Site URL: [IP Address Tracker](https://ip-address-tracker-e2ks.onrender.com)
 
 ## My process
 
@@ -50,7 +47,3 @@ Users should be able to:
 ### What I learned
 
 As my first try using a map API, Leaflet was a great tool to achieve that. At first, it was a challenge to incorporate it in ReactJS, but after find the React Leaflet components, the proccess became easier.
-
-## Author
-
-- Frontend Mentor - [@bernard-rodrigues](https://www.frontendmentor.io/profile/bernard-rodrigues)
